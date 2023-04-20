@@ -21,7 +21,7 @@ function gotResults(error, results) {
 
         palmas = document.getElementById('palma')
         chocalho = document.getElementById('chocalho')
-        arranhao = document.getElementById('arranhão')
+        arranhao = document.getElementById('arranhao')
         papel = document.getElementById('papel')
 
         if (results[0].label == 'Palma') {
